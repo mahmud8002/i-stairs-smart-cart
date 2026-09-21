@@ -1,0 +1,10 @@
+# PlatformIO / Arduino IDE temporary files
+.pio/
+.vscode/
+*.hex
+*.elf
+*.bin
+
+# OS generated files
+.DS_Store
+Thumbs.db
